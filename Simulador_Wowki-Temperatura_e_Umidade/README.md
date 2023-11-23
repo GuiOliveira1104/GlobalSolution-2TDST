@@ -1,10 +1,12 @@
 # Ideia do projeto
-Utilizamos o sensor DHT22 apenas para simulação, pois o simulador Wowki, possui sensores limitados. 
+Utilizamos o sensor DHT22 apenas para simulação, pois para desenvolvimento do projeto utilizamos o simulador Wowki, e o mesmo possui sensores limitados.
+
 Nossa ideia era utilizar 2 sensores, TMP36 que pode ser usado ​​para medir a temperatura corporal, e o MAX30100 para detectar alterações no fluxo sanguíneo e nos batimentos cardíacos.
 
 # Sistema de Monitoramento de Saúde com ESP32 e ThingSpeak
 
 Este projeto utiliza um ESP32, com o sensor DHT22 para monitorar temperatura e umidade, e envia os dados para o ThingSpeak para visualização e monitoramento remoto.
+Simulando a temperatura corporal e os batimentos cardíacos.
 
 ## Componentes Utilizados
 
