@@ -1,6 +1,6 @@
 # Ideia do projeto
-A ideia foi criar um IOT baseado em 2 sensores, um para medir temperatura corporal
-Utilizamos o sensor DHT22 apenas para simulação, pois o simulador Wowki, possui sensores limitados. Nossa ideia era utilizar 2 sensores, TMP36 que pode ser usado ​​para medir a temperatura corporal, e o MAX30100 para detectar alterações no fluxo sanguíneo e nos batimentos cardíacos.
+Utilizamos o sensor DHT22 apenas para simulação, pois o simulador Wowki, possui sensores limitados. 
+Nossa ideia era utilizar 2 sensores, TMP36 que pode ser usado ​​para medir a temperatura corporal, e o MAX30100 para detectar alterações no fluxo sanguíneo e nos batimentos cardíacos.
 
 # Sistema de Monitoramento de Saúde com ESP32 e ThingSpeak
 
@@ -60,3 +60,5 @@ Este projeto utiliza um ESP32, com o sensor DHT22 para monitorar temperatura e u
 
 ### Link para Wowki
  - https://wokwi.com/projects/382057105542785025
+### Link para ThingSpeak
+ - https://thingspeak.com/channels/2355139
